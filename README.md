@@ -10,11 +10,11 @@ To manage the inconvenience caused due to delay in ambulance services and respon
 •	Along with details of hospitals, details of verified doctors and specialists will also be made available. 
 •	The website also ensures safe online payment. 
 •	The user can also check the availability of medicines in the nearest medical stores from his location and can also order them directly from the website.
-
  
 FUTURE WORK:
 We would like to improvise our project in the near future by working on the following features:
 •	Aceso mobile application which will be more user friendly.
 •	Improve the accuracy of maps
+
 CHALLENGES WE RAN INTO:
 The major challenge was the time constraint and working on a real-time website for the first time. It was difficult to implement to work with Google Maps API and we’ve tried our best to implement our idea to the best of our knowledge.
