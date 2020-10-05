@@ -10,6 +10,7 @@ To manage the inconvenience caused due to delay in ambulance services and respon
 •	Along with details of hospitals, details of verified doctors and specialists will also be made available. 
 •	The website also ensures safe online payment. 
 •	The user can also check the availability of medicines in the nearest medical stores from his location and can also order them directly from the website.
+
  
 FUTURE WORK:
 We would like to improvise our project in the near future by working on the following features:
